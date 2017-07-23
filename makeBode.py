@@ -1,3 +1,7 @@
+#How to Use
+	#Define your Transfer Function
+	#Execute this program by $python3 makeBode.py
+
 # !---   Don't Touch   ---!
 import numpy as np
 import matplotlib.pyplot as plt
